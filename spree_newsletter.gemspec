@@ -1,7 +1,7 @@
 # encoding: UTF-8
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
-  s.name        = 'spree_mewsletter'
+  s.name        = 'spree_newsletter'
   s.version     = '3.0.0'
   s.summary     = 'Basic provision of newsletter recipients'
   s.required_ruby_version = '>= 2.0.0'
